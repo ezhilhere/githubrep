@@ -1,0 +1,2 @@
+1.you should know how to create register dialog box.
+2.you also know how to create login box
